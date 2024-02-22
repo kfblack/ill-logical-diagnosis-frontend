@@ -16,7 +16,6 @@ This is a full-stack application, making use of Django on the backend, React on 
 - Python
 - VS Code
 - PostgreSQL
-- Mongoose
 - React
 - Django
 - Postman
@@ -26,7 +25,7 @@ This is a full-stack application, making use of Django on the backend, React on 
 - Vercel
 ***
 #### **_Getting Started_**
-[Click here to access the app!]() | [Component Hierarchy Diagram]() | [ERD]() | [Trello Board]() | [Backend Repository]() | [Excalidraw Wireframe]()
+[Click here to access the app!]() | [Component Hierarchy Diagram](https://lucid.app/lucidchart/d640f7be-e6b5-4b08-9fde-d761f05fb15e/edit?viewport_loc=-11%2C-11%2C1732%2C1021%2C0_0&invitationId=inv_4d37c110-1d3f-4fac-a5d0-55b59ebffd34) | [ERD](https://lucid.app/lucidchart/72f07654-d07e-4642-b06c-13ce886f5b15/edit?viewport_loc=-11%2C-11%2C1732%2C1021%2C0_0&invitationId=inv_2ecfa477-4ad7-47f3-a4d1-55762d57bc02) | [Trello Board](https://trello.com/invite/b/GGlI6z90/ATTI43976d2feaeb79ba37e405c362a02432660EED23/ill-logical-diagnosis) | [Backend Repository](https://github.com/kfblack/ill-logical-diagnosis-backend) | [Excalidraw Wireframe](https://excalidraw.com/#json=r7ELXc8MfilttaSw8YSgw,4IsshDGA97dwWYfZJ6xceA)
 ***
 #### **_Screenshots_**
 
